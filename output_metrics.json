@@ -1,0 +1,8 @@
+{
+  "f1_score": 0.8361204013377926,
+  "precision": 0.7861635220125787,
+  "recall": 0.8928571428571429,
+  "roc_auc": 0.788095238095238,
+  "disparate_impact": 0.9210526315789473,
+  "demographic_parity_difference": 0.06428571428571428
+}
